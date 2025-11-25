@@ -1,6 +1,7 @@
 # Beezzy - A Hive of Affection
 
-Um aplicativo para apoiar jovens mães que ainda estão na escola em sua rotina, ajudando-as a compartilhar o cuidado e as responsabilidades do dia a dia. 
+Um aplicativo para apoiar jovens mães que ainda estão na escola em sua rotina, ajudando-as a compartilhar o cuidado e as responsabilidades do dia a dia. \
+<img width="2130" height="875" alt="HorizontalSloganLight" src="https://github.com/user-attachments/assets/815acab4-317f-4fa3-83ea-79a648a557f2" />
 
 ---
 
@@ -93,3 +94,7 @@ Como desenvolvedor, participei de aspectos técnicos e criativos do aplicativo:
 
 **Desenvolvimento:** Sérgio Cesar Lira Junior, [Jaide Zardin](https://github.com/JaideZrdn), Eduardo Cordeiro, Amanda Rabelo e Juliana Magalhães  
 **Design:** Letícia Lima e Taynara Nascimento
+<img width="1284" height="2778" alt="Frame 471" src="https://github.com/user-attachments/assets/e3149075-b4df-48c4-b9d5-bf2de91c34af" />
+<img width="1284" height="2778" alt="Frame 472" src="https://github.com/user-attachments/assets/859d8494-35c7-4f2e-8d87-3a895ebb8eb9" />
+<img width="1284" height="2778" alt="Frame 473" src="https://github.com/user-attachments/assets/a44f8e79-fe02-4e05-9728-6d37e98cb3d7" />
+
