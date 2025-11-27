@@ -101,5 +101,3 @@ Beezzy oferece funcionalidades que facilitam o compartilhamento de responsabilid
 <img width="1284" height="2778" alt="Frame 473" src="https://github.com/user-attachments/assets/a44f8e79-fe02-4e05-9728-6d37e98cb3d7" />
 
 ---
-
-**Beezzy - Onde o cuidado é compartilhado 🐝💛**
